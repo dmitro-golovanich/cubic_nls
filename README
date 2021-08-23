@@ -1,3 +1,4 @@
 This file repository contains matlab code needed to solve for the soliton solution of the perturbed 3D cubic NLS for various potentials V;
-count the number of eigenstates of the perturbed 3D cubic NLS with that V; and graph the zeros of the resulting plucker system. The code is highly modular,
-which helps with testing and comparing a very wide variety of potentials. Code used extensively in my PhD dissertation at UNC Chapel Hill.
+count the number of eigenstates of the perturbed 3D cubic NLS with that V; and graph the zeros of the resulting plucker system. 
+The code is highly modular, which helps with testing and comparing a very wide variety of potentials. 
+All of the code runs when called from the main.m file. Code used extensively in my PhD dissertation at UNC Chapel Hill. 
